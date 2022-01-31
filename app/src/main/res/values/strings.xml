@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lista de Tarefas</string>
+    <string name="tarefas">Tarefas</string>
+    <string name="criartarefa">Criar Tarefa</string>
+    <string name="titulo">Título</string>
+    <string name="Descricao">Descrição</string>
+    <string name="data">Data</string>
+    <string name="criar_tarefas">Criar Tarefas</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="hora">Hora</string>
+    <string name="adicionar_tarefa">Adicionar Tarefa</string>
+    <string name="editar">Editar</string>
+    <string name="apagar">Apagar</string>
+    <string name="tarefa_texto">Você não tem \nnenhuma tarefa!</string>
+</resources>

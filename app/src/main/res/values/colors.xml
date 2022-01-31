@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lilas">#FFBB86FC</color>
+    <color name="roxo">#FF6200EE</color>
+    <color name="azul">#FF3700B3</color>
+    <color name="teal">#FF03DAC5</color>
+    <color name="petroleo">#FF018786</color>
+    <color name="preto">#FF000000</color>
+    <color name="branco">#FFFFFFFF</color>
+</resources>
